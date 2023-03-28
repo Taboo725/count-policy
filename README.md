@@ -1,4 +1,6 @@
 # count_policy
+------
+-2023.3.28 更新了Lesson_1.py
 //用于记录学习Python的代码
 本程序用来统计word文档中的词频
 你的 Microsoft 365 开发人员订阅
