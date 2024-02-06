@@ -1,0 +1,11 @@
+将原教程以下步骤：
+
+5 添加插件库：jellyfin后台->控制台->高级->插件->存储库
+   插件地址：https://ghproxy.com/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest_cn.json
+6 安装MetaShark插件：jellyfin后台->控制台->高级->插件->目录
+
+替换为以下步骤，执行后继续原教程的第7步及以后的步骤：
+
+下载本网盘中MetaShark目录下的Jellyfin.Plugin.MetaShark.dll文件
+在NAS的share/appdata/jellyfin/config/plugins目录下，新建MetaShark_1.7.2.0目录
+将Jellyfin.Plugin.MetaShark.dll文件上传至新建的MetaShark_1.7.2.0目录下
